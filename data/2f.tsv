@@ -1,0 +1,16 @@
+	terms	identifiers	foreground	background	foreground_pop	background_pop	pvalue	padj	rejected	direction
+0	acute-phase response	CRP~P02741,LBP~P18428,SAA1~P0DJI8	3	10	7	179	0.008943636876336607	0.013415455314504911	True	upregulated
+2	immune response	B2M~P61769,FCGR3A~P08637	2	1	7	179	0.0038800803039376335	0.013415455314504911	True	upregulated
+4	opsonization	CRP~P02741,LBP~P18428	2	2	7	179	0.007613752063863974	0.013415455314504911	True	upregulated
+5	platelet activation	SAA1~P0DJI8,VWF~P04275	2	2	7	179	0.007613752063863974	0.013415455314504911	True	upregulated
+1	defense response to Gram-positive bacterium	CRP~P02741,LBP~P18428	2	3	7	179	0.012449745962437921	0.014939695154925504	True	upregulated
+0	antimicrobial humoral immune response mediated by antimicrobial peptide	PF4~P02776,PPBP~P02775	2	1	4	179	0.0011213612943101689	0.002803403235775422	True	downregulated
+2	chemokine-mediated signaling pathway	PF4~P02776,PPBP~P02775	2	0	4	179	0.0003766241918271954	0.002803403235775422	True	downregulated
+6	neutrophil chemotaxis	PF4~P02776,PPBP~P02775	2	1	4	179	0.0011213612943101689	0.002803403235775422	True	downregulated
+7	positive regulation of endothelial cell migration	GPLD1~P80108,THBS1~P07996	2	1	4	179	0.0011213612943101689	0.002803403235775422	True	downregulated
+3	inflammatory response	PF4~P02776,PPBP~P02775,THBS1~P07996	3	11	4	179	0.001476441305672901	0.002952882611345802	True	downregulated
+1	cellular response to lipopolysaccharide	PF4~P02776,PPBP~P02775	2	2	4	179	0.0022257725656061877	0.0031796750937231255	True	downregulated
+9	response to glucose	GPLD1~P80108,THBS1~P07996	2	2	4	179	0.0022257725656061877	0.0031796750937231255	True	downregulated
+4	negative regulation of angiogenesis	PF4~P02776,THBS1~P07996	2	3	4	179	0.0036814918032005844	0.004090546448000649	True	downregulated
+5	negative regulation of cell population proliferation	GPLD1~P80108,THBS1~P07996	2	3	4	179	0.0036814918032005844	0.004090546448000649	True	downregulated
+8	positive regulation of tumor necrosis factor production	PF4~P02776,THBS1~P07996	2	5	4	179	0.0076137520638633925	0.0076137520638633925	True	downregulated
